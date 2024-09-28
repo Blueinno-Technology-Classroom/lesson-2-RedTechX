@@ -1,0 +1,21 @@
+.content-container {
+  background-color: blue;
+  padding: 50px;
+  color: aqua;
+}
+.Nav-Bar {
+  background-color: black;
+  color: aqua;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.hyfhjgfhnf {
+  color: antiquewhite;
+}
+.avatar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
